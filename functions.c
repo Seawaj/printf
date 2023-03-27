@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-* print_char - Prints a char
+* print_char - This Prints a char
 *
 * @types: List a of arguments
 * @buffer: Buffer array to handle print
@@ -22,7 +22,7 @@ int flags, int width, int precision, int size)
 }
 
 /**
-* print_string - Prints a string
+* print_string - To Print a string
 *
 * @types: List a of arguments
 * @buffer: Buffer array to handle print
@@ -75,7 +75,7 @@ int flags, int width, int precision, int size)
 }
 
 /**
-* print_percent - Prints a percent sign
+* print_percent - Function that prints a percent sign
 *
 * @types: Lista of arguments
 * @buffer: Buffer array to handle print
@@ -99,7 +99,7 @@ int flags, int width, int precision, int size)
 }
 
 /**
-* print_int - Print int
+* print_int - to print int
 *
 * @types: Lista of arguments
 * @buffer: Buffer array to handle print
@@ -139,7 +139,7 @@ int flags, int width, int precision, int size)
 }
 
 /**
-* print_binary - Prints an unsigned number
+* print_binary - It prints an unsigned number
 *
 * @types: Lista of arguments
 * @buffer: Buffer array to handle print
