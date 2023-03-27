@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
-* print_char - This Prints a char.
+* print_char - This Prints a char
 *
-* @types: List a of arguments.
+* @types: List a of arguments
 * @buffer: Buffer array to handle print
 * @flags: Calculates active flags
 * @width: Width
