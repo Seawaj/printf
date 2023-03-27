@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-* print_pointer - Prints the value of a pointer variable
+* print_pointer - It Prints the value of a pointer variable
 *
 * @types: List a of arguments
 * @buffer: Buffer array to handle print
@@ -82,7 +82,7 @@ int flags, int width, int precision, int size)
 }
 
 /**
-* print_reverse - Prints reverse string.
+* print_reverse - To Print reverse string.
 *
 * @types: Lista of arguments
 * @buffer: Buffer array to handle print
